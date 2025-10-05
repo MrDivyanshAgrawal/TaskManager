@@ -2,7 +2,7 @@
 
 A modern, responsive todo application built with React. Manage tasks efficiently with priority levels, filtering, and customizable themes.
 
-[View Live Demo 🚀](#)
+[View Live Demo 🚀](https://taskmanager-divyansh-agrawal.vercel.app)
 
 ![Task Manager Screenshot](/public/TM.png)
 
@@ -89,7 +89,7 @@ The app is fully responsive and optimized for all screen sizes:
 
 ## 🔗 Links
 
-- [Live Demo](#)
+- [Live Demo](https://taskmanager-divyansh-agrawal.vercel.app)
 - [GitHub Repository](https://github.com/MrDivyanshAgrawal/TaskManager)
 
 ## 📜 License
